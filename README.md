@@ -30,7 +30,7 @@ Academic Grocery store project built with HTML/CSS/JS/PHP.
 <img width="1440" alt="add" src="https://user-images.githubusercontent.com/66967130/124195593-c03c6600-da98-11eb-938c-8af2ecdeb89f.png">
 <hr>
 <img width="1440" alt="add1" src="https://user-images.githubusercontent.com/66967130/124195600-c3cfed00-da98-11eb-8ccc-bc45fe4f7b54.png">
-<h3> Signup </h3>
+<h3> Sign Up </h3>
 <hr>
 <img width="1440" alt="signup" src="https://user-images.githubusercontent.com/66967130/124195622-cf231880-da98-11eb-923a-bce55e0a24ae.png">
 <h3> Contact </h3>
