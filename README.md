@@ -1,5 +1,5 @@
 # Tropical Flavours Grocery Store
-Grocery store built with HTML/CSS/JS/PHP.
+Academic Grocery store project built with HTML/CSS/JS/PHP.
 
 <h1>About</h1>
 <p> This website was built for an academic project with 4 of my classmates. The technologies used were <b>HTML/CSS</b>, <b>Bootstrap</b> and <b>UIkit</b> for the frontend, and <b>JavaScript</b> and <b>PHP</b > for the backend functionality. The website is currently not being hosted.</p>
