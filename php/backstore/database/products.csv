@@ -1,0 +1,33 @@
+1,Apples,0.10,0.99,each,apples.png,Fruits and Vegetables,Delicious honey crisp apples, freshly picked just for you.
+2,Oranges,1.50,1.50,each,oranges.png,Fruits and Vegetables,"Our famous oranges are all grown in the great state of Florida! Florida oranges are famous for the sweetness and juiciness, and now you get to enjoy them!"
+3,Grapes,0.70,0.70,each,grapes.png,Fruits and Vegetables,"Green seedless grapes."
+4,Spinach,0.99,0.99,each,spinach.png,Fruits and Vegetables,"Fresh spinach full of nutrients to make you strong and BIG!"
+5,Tomato,0.20,0.20,each,tomato.png,Fruits and Vegetables,"Our tomatoes can cater for any of your needs, whether it be for pizza sauce or a simple salad!"
+6,Beef,25.99,25.99,/kg,beef.png,Meat and Poultry,Fresh Canadian Grain Fed AAA Filet Mignon steaks aged a minimum of 28 days to perfection.
+7,Chicken Wings,7.99,7.99,/8pcs,chicken-wing.png,Meat and Poultry,Fried chicken wing.
+8,Chicken Breast,19.99,21.99,/kg,chicken-breast.png,Meat and Poultry,Boneless Skinless Chicken Breasts.
+9,Roasted Chicken,7.99,7.99,each,roasted-chicken.png,Meat and Poultry,Perfectly roasted chicken
+10,Turkey,19.99,19.99,/kg,turkey.png,Meat and Poultry,Sharply cut turkey slices from the region
+11,Pretzel,3.99,3.99, ,pretzel.png,Snacks,Crunchy pretzels for everyone!
+12,Popcorn,2.99,2.99, ,popcorn.png,Snacks,Movie night ? Inviting her ? **wink wink**
+13,Granola Bar,2.47,2.47, ,granola-bar.png,Snacks,Healthy granola bar to boost your day.
+14,Chocolate Bar,2.99,2.99, ,chocolate-bar.png,Snacks,"Delicious honey crisp apples, freshly picked just for you."
+15,Chips,3.99,3.99, ,doritos.png,Snacks,"Delicious honey crispy chip bags, just for your party nights."
+16,Almond,15.37,16.37,/kg,almond.png,Snacks,Delicious almonds.
+17,Apple Juice,1.56,1.76, ,apple-juice.png,Beverages,Amazing apple juice to boost your mornings.
+18,Orange Juice,3.58,3.58,(6.1 ¢/fl oz),orange-juice.png,Beverages,"Mouthwatering orange juice to give you Vitamin C, made with freshly harvested oranges"
+19,Mango Nectar,9.44,9.44,(4.0 ¢/fl oz),mango-nectar.png,Beverages,The most wanted juice ever created. It's available in our store.
+20,Pineapple Juice,12.29,12.29,/16 cans,pineapple-juice.png,Beverages,Pineapple juice for those who want to taste power.
+21,Lemonade,3.58,3.58,(6.1 ¢/fl oz),lemonade.png,Beverages,The best lemonade in north America just for you guys.
+22,Cranberry Juice,5.28,5.28,(5.3 ¢/fl oz),cranberry-juice.png,Beverages,Try out the new Cranberry juice only available for a limited time.
+23,Brown Bread,19.99,19.99,each,brown-bread.png,Bread And Bakery,This delicious brown bread will keep your blood sugar at the lowest level.
+24,White Bread,7.99,9.99,each,white-bread.jpg,Bread And Bakery,Delicious soft white bread specially for you.
+25,French Baguette,0.99,0.99,each,french-baguette.png,Bread And Bakery,Fresh french baguette directly from Paris france.
+26,Hamburger,4.99,4.99,/bag,hamburger-bun.png,Bread And Bakery,With this delicious Hamburger Bun you will eat all your hamburgers.
+27,Hot Dog Bun,4.99,4.99,/bag,hotdog-bun.png,Bread And Bakery,This hot dog bun is perfectly made for your summer vacation.
+28,Croissant,4.45,4.45,/5pcs,croissant.png,Bread And Bakery,A grand perfect puffy croissant.
+29,Cheese,8.99,8.99,each,cheese.png,Dairy And Eggs,Delicious and flavorful aged mozzarella. It will give you a taste of Italy!
+30,Chocolate milk,7.99,7.99,each,chocolate-milk.png,Dairy And Eggs,"Our amazing milk, but this time with chocolate!"
+31,Brown Eggs,5.99,5.99,/dz,brown-eggs.png,Dairy And Eggs,A dozen brown eggs
+32,Milk,5.99,5.99,each,milk-bag.png,Dairy And Eggs,The best milk for your coffee
+33,White Eggs,5.99,5.99,each,white-eggs.png,Dairy And Eggs,A dozen white eggs
