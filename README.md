@@ -10,8 +10,8 @@ Grocery store built with HTML/CSS/JS/PHP.
   <li> Sign-in and Sign-up pages, with all user info saved in the backend. </li>
   <li> Contact page with mailing list. </li>
   <li> Backstore section accessible only by admins. It can modify existing orders, create new ones, or delete them. It can also dynamically change the information of a product, such as price, name and description.  </li>
-  <li> Beautiful and responsive design translated through a modern look and dynamic animations, ultimately giving the user a satisfying shopping experience.</li>
-  
+  <li> Beautiful and responsive design translated through dynamic animations and a modern look, ultimately giving the user a satisfying shopping experience.</li>
   </ul>
   
   <h2> Screenshots </h2>
+<h3> Homepage </h3>
