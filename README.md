@@ -15,20 +15,26 @@ Grocery store built with HTML/CSS/JS/PHP.
   
   <h2> Screenshots </h2>
 <h3> Homepage </h3>
+<hr>
 <img width="1440" alt="homepage" src="https://user-images.githubusercontent.com/66967130/124195485-971bd580-da98-11eb-949f-d06a2838f11e.png">
 <hr>
 <img width="1439" alt="homepage1" src="https://user-images.githubusercontent.com/66967130/124195536-ab5fd280-da98-11eb-88d8-5f8219c5e489.png">
 <hr>
 <img width="1440" alt="homepage2" src="https://user-images.githubusercontent.com/66967130/124195541-adc22c80-da98-11eb-89c2-e713dae0c89b.png">
-<hr>
 <h3> Shopping </h3>
+<hr>
 <img width="1440" alt="food2" src="https://user-images.githubusercontent.com/66967130/124195575-b9adee80-da98-11eb-82fd-de379c4d944f.png">
+<hr>
 <img width="1440" alt="food" src="https://user-images.githubusercontent.com/66967130/124195589-bdda0c00-da98-11eb-89cf-793020dd6ab8.png">
+<hr>
 <img width="1440" alt="add" src="https://user-images.githubusercontent.com/66967130/124195593-c03c6600-da98-11eb-938c-8af2ecdeb89f.png">
+<hr>
 <img width="1440" alt="add1" src="https://user-images.githubusercontent.com/66967130/124195600-c3cfed00-da98-11eb-8ccc-bc45fe4f7b54.png">
 <h3> Signup </h3>
+<hr>
 <img width="1440" alt="signup" src="https://user-images.githubusercontent.com/66967130/124195622-cf231880-da98-11eb-923a-bce55e0a24ae.png">
 <h3> Contact </h3>
+<hr>
 <img width="1440" alt="contact" src="https://user-images.githubusercontent.com/66967130/124195643-d9451700-da98-11eb-99a9-a1d6cea604ce.png">
 
 
