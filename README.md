@@ -2,7 +2,7 @@
 Grocery store built with HTML/CSS/JS/PHP.
 
 <h1>About</h1>
-<p> This website was built for a school project with 4 of my classmates. The technologies used were <b>HTML/CSS</b>, <b>Bootstrap</b> and <b>UIkit</b> for the frontend, and <b>JavaScript</b> and <b>PHP</b > for the backend functionality.</p>
+<p> This website was built for a school project with 4 of my classmates. The technologies used were <b>HTML/CSS</b>, <b>Bootstrap</b> and <b>UIkit</b> for the frontend, and <b>JavaScript</b> and <b>PHP</b > for the backend functionality. The website is currently not being hosted.</p>
 <h2>Some Features</h2>
 <ul>
   <li> Fully functioning grocery store with a vast selection of items divided in 6 categories: Fruits & Vegetables, Meat and Poultry, Dairy and Eggs, Bread and Bakery, Beverages and Snacks. </li> 
@@ -10,5 +10,8 @@ Grocery store built with HTML/CSS/JS/PHP.
   <li> Sign-in and Sign-up pages, with all user info saved in the backend. </li>
   <li> Contact page with mailing list. </li>
   <li> Backstore section accessible only by admins. It can modify existing orders, create new ones, or delete them. It can also dynamically change the information of a product, such as price, name and description.  </li>
+  <li> Beautiful and responsive design translated through a modern look and dynamic animations, ultimately giving the user a satisfying shopping experience.</li>
   
   </ul>
+  
+  <h2> Screenshots </h2>
